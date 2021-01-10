@@ -2,7 +2,7 @@
 
  - [x] Chapter 1 (2021/01/03)
  
- - [ ] Chapter 2
+ - [x] Chapter 2 (2021/01/10)
  
  - [ ] Chapter 3
  
