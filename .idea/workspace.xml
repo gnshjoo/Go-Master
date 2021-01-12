@@ -20,20 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38242a81-cbf4-4a51-8782-4320caed0b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter03/constants.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/copySlice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/failMap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/lenCap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/loops.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/parseDate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/parseTime.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/pointers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/reslice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/sortSlice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/usingArrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/usingMap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/usingTime.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/calculatePi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/changeDT.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/findIPv4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/keyvalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/pointerStruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/runes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/selectColumn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/strings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/structures.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/switch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/tuples.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/unicode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpater04/userStrings.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -72,59 +72,59 @@
       <recent name="$PROJECT_DIR$/chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.parseDate">
-    <configuration name="constants" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+  <component name="RunManager" selected="Go Build.keyvalue">
+    <configuration name="Pi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter03/constants.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter03" />
+      <filePath value="$PROJECT_DIR$/chpater04/calculatePi.go" />
+      <package value="github.com/gnshjoo/GoMaster/chpater04" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build pointers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="keyvalue" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter03/pointers.go" />
-      <package value="github.com/gnshjoo/GoMaster" />
+      <filePath value="$PROJECT_DIR$/chpater04/keyvalue.go" />
+      <package value="github.com/gnshjoo/GoMaster/chpater04" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="parseDate" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="switch" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter03/parseDate.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter03" />
+      <filePath value="$PROJECT_DIR$/chpater04/switch.go" />
+      <package value="github.com/gnshjoo/GoMaster/chpater04" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="parseTime" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="unicode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter03/parseTime.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter03" />
+      <filePath value="$PROJECT_DIR$/chpater04/unicode.go" />
+      <package value="github.com/gnshjoo/GoMaster/chpater04" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="usingTime" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="userStrings" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter03/usingTime.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter03" />
+      <filePath value="$PROJECT_DIR$/chpater04/userStrings.go" />
+      <package value="github.com/gnshjoo/GoMaster/chpater04" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.parseDate" />
-        <item itemvalue="Go Build.parseTime" />
-        <item itemvalue="Go Build.usingTime" />
-        <item itemvalue="Go Build.go build pointers.go" />
-        <item itemvalue="Go Build.constants" />
+        <item itemvalue="Go Build.keyvalue" />
+        <item itemvalue="Go Build.Pi" />
+        <item itemvalue="Go Build.switch" />
+        <item itemvalue="Go Build.userStrings" />
+        <item itemvalue="Go Build.unicode" />
       </list>
     </recent_temporary>
   </component>
