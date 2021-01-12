@@ -4,9 +4,9 @@
  
  - [x] Chapter 2 (2021/01/10)
  
- - [ ] Chapter 3
+ - [x] Chapter 3 (2021/01/11)
  
- - [ ] Chapter 4
+ - [x] Chapter 4 (2021/01/12)
  
  - [ ] Chapter 5
  
