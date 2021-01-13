@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38242a81-cbf4-4a51-8782-4320caed0b85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/binTree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/conHeap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/conList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/conRing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/doublyLList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/generatePassword.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/hashTable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/hashTableLookup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/linkedList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter05/randomNumbers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,62 +66,63 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.keyvalue">
-    <configuration name="Pi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+  <component name="RunManager" selected="Go Build.myRing">
+    <configuration name="container/heap" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chpater04/calculatePi.go" />
-      <package value="github.com/gnshjoo/GoMaster/chpater04" />
+      <filePath value="$PROJECT_DIR$/chapter05/conHeap.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter05" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="keyvalue" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="container/list" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chpater04/keyvalue.go" />
-      <package value="github.com/gnshjoo/GoMaster/chpater04" />
+      <filePath value="$PROJECT_DIR$/chapter05/conList.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter05" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="switch" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="doubly" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chpater04/switch.go" />
-      <package value="github.com/gnshjoo/GoMaster/chpater04" />
+      <filePath value="$PROJECT_DIR$/chapter05/doublyLList.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter05" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="unicode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="linkedlist" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chpater04/unicode.go" />
-      <package value="github.com/gnshjoo/GoMaster/chpater04" />
+      <filePath value="$PROJECT_DIR$/chapter05/linkedList.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter05" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="userStrings" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="myRing" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chpater04/userStrings.go" />
-      <package value="github.com/gnshjoo/GoMaster/chpater04" />
+      <filePath value="$PROJECT_DIR$/chapter05/conRing.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter05" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.keyvalue" />
-        <item itemvalue="Go Build.Pi" />
-        <item itemvalue="Go Build.switch" />
-        <item itemvalue="Go Build.userStrings" />
-        <item itemvalue="Go Build.unicode" />
+        <item itemvalue="Go Build.myRing" />
+        <item itemvalue="Go Build.container/list" />
+        <item itemvalue="Go Build.container/heap" />
+        <item itemvalue="Go Build.doubly" />
+        <item itemvalue="Go Build.linkedlist" />
       </list>
     </recent_temporary>
   </component>
