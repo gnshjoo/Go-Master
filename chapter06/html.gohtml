@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Number</th>
+            <th>Double</th>
+            <th>Square</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .}}
+        <tr>
+            <td>{{ .Number }}</td>
+            <td>{{ .Double }}</td>
+            <td>{{ .Square }}</td>
+        </tr>
+        {{end}}
+    </tbody>
+</table>
