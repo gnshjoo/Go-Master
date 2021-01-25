@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,17 +23,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38242a81-cbf4-4a51-8782-4320caed0b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter07/advRefl.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/assertion.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/goCoIn.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/methods.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/myInterface/myInterface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/ooo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/reflection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/switch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/useInterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/CSVplot.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/byCharacter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/byLine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/byWord.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/bytes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/cat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/dataFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/devRandom.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/funcWithFlag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/goFind.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/handleAll.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/handleTwo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/permission.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/readSize.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/save.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/simpleFlag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/str.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlT.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +78,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.profiler.configurations.ui.EditProfilerConfigurationsComponent" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -81,7 +94,7 @@
       <recent name="$PROJECT_DIR$/chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/gnshjoo/GoMaster/chapter07 (2)">
+  <component name="RunManager" selected="Go Build.go build github.com/gnshjoo/GoMaster/chapter08">
     <configuration name="advRefl" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
@@ -118,22 +131,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="interface" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build github.com/gnshjoo/GoMaster/chapter08" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter07/useInterface.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter07" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/chapter08/simpleFlag.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter08" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter08" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter07 (2)" />
         <item itemvalue="Go Build.advRefl" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter07 (1)" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter07" />
-        <item itemvalue="Go Build.interface" />
       </list>
     </recent_temporary>
   </component>
