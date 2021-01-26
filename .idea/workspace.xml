@@ -23,9 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38242a81-cbf4-4a51-8782-4320caed0b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter11/profileMe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/testMe/testMe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/testMe/testMe_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/DNS.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/MXrecords.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/NSrecods.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/netCapabilities.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/netConfig.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/www.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,16 +82,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/gnshjoo/GoMaster/chapter09 (1)">
-    <configuration name="advRefl" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="GoMaster" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chapter07/advRefl.go" />
-      <package value="github.com/gnshjoo/GoMaster/chapter07" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.http">
     <configuration name="go build github.com/gnshjoo/GoMaster/chapter07 (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoMaster" />
       <working_directory value="$PROJECT_DIR$" />
@@ -125,13 +119,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="http" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GoMaster" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/chapter12/www.go" />
+      <package value="github.com/gnshjoo/GoMaster/chapter12" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.http" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter09 (1)" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter09" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter08" />
         <item itemvalue="Go Build.go build github.com/gnshjoo/GoMaster/chapter07 (2)" />
-        <item itemvalue="Go Build.advRefl" />
       </list>
     </recent_temporary>
   </component>
