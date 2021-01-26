@@ -23,20 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38242a81-cbf4-4a51-8782-4320caed0b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter10/Channel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/bufChannel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/chSquare.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/defineOrder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/forgetMutex.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/maxprocs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/mutex.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/nilChannel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/slowWWW.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/timeOut1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/timeOut2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/useContext.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/workerPool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/profileMe.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/testMe/testMe.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/testMe/testMe_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter11/testMe" />
       <recent name="$PROJECT_DIR$/chapter07/myInterface" />
       <recent name="$PROJECT_DIR$/chapter06" />
       <recent name="$PROJECT_DIR$/chapter06/aPackage" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/chapter1" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build github.com/gnshjoo/GoMaster/chapter09 (1)">
